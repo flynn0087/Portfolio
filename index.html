@@ -4,42 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ben Flynn's Portfolio</title>
+    <!--link that makes bootstrap CSS active-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <body>
+  <!--Navbar details, including title-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">Ben Flynn</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="portfolio.html">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
-          </li>
-        </ul>
-      </div>
+    <a class="navbar-brand" href="#">Ben Flynn</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!--margin adjustment making links on right-->
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <!--the links for my Navbar-->
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portfolio.html">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+      </ul>
+    </div>
   </nav>
 
+  <!--header that is beneth the navbar-->
   <div class="container">
     <header class="row">
+      <!--indication of amount of space to use, bootstrap already does the margin-->
       <div class="col-md-12">
         <h1>About Me</h1>
       </div>
     </header>
-
+    <!--horizontal line break-->
     <hr>
-
+  
+    <!--the main information contained on the page-->
     <main class="row">
       <div class="col-md-12">
+        <!--the image displayed, including a float command which allows the text to wrap similar to a newspaper-->
         <img src="P_20201007_091328.jpg" alt="Image of Ben Flynn" style="width:33%; float: left; margin-right: 10px;">
+          <!--the written details of my life, broken up using semantic tag and 2 paragraphs-->
           <section>
             <p> 
             My name is Benjamin (Ben) Flynn. I was born on December 14, 1983 in Minneapolis, MN. I still currently live in Minneapolis, MN.
@@ -61,8 +70,5 @@
       </div>
     </main>
   </div>
-
-
-    
 </body>
 </html>
