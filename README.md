@@ -11,7 +11,7 @@ No installation beyond a web browser should be needed to view the webpage. A cod
 ## Usage
 
 This webpage is viewable at: https://flynn0087.github.io/Portfolio/
-Here is an example image of the page: ![Image of webpage](screenshot.PNG)
+Here is an example image of the page: ![Image of webpage](Screenshot.PNG)
 
 ## Contributing
 
