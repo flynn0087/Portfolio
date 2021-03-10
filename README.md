@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a personal page that has details about me. It also showcases the work I have done developing webpages. It also contains methods to contact me, via email and linkedin.
+This is a personal page built with React that has details about me. It also showcases the work I have done developing webpages. It also contains methods to contact me, via email and linkedin.
 
 ## Installation
 
@@ -11,7 +11,7 @@ No installation beyond a web browser should be needed to view the webpage. A cod
 ## Usage
 
 This webpage is viewable at: https://flynn0087.github.io/Portfolio/
-Here is an example image of the page: ![Image of webpage](Screenshot.PNG)
+Here is an example image of the page: ![Image of webpage](src/assets/images/screenshot/screenshot.PNG)
 
 ## Contributing
 
