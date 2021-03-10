@@ -1,0 +1,7 @@
+.color-nav {
+    background-color: indigo;
+}
+
+.navbar-nav .nav-link {
+    color: gold !important;
+}
