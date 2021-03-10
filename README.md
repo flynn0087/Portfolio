@@ -10,7 +10,7 @@ No installation beyond a web browser should be needed to view the webpage. A cod
 
 ## Usage
 
-This webpage is viewable at: https://flynn0087.github.io/About/
+This webpage is viewable at: https://flynn0087.github.io/Portfolio/
 Here is an example image of the page: ![Image of webpage](src/assets/images/screenshot/screenshot.PNG)
 
 ## Contributing
