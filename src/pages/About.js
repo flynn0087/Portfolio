@@ -19,7 +19,7 @@ function About() {
             <img src={ ImageMe } alt="Ben Flynn" style={{ maxWidth: 350, maxHeight: 350 }}/>
           </Col>
           <Col size="xl-9">
-            <p style={{fontWeight: "bolder"}} >
+            <p style={{fontWeight: "900"}} >
               My name is Benjamin (Ben) Flynn. I was born on December 14, 1983 in Minneapolis, MN. I still currently live in Minneapolis, MN.
               However, I have also lived in Chicago, IL; Steamboat Springs, CO; and Telluride, CO. I lived in Chicago for two years after 
               graduating from the University of Minnesota. I lived in Colorado for a total of four winters, with one summer as well. Chicago
@@ -27,7 +27,7 @@ function About() {
               in Colorado as I am an avid downhill skier and snowboarder. During the summer I also enjoyed hiking. Mountains are the best! I 
               still enjoy traveling to the mountains to ski when I can.
             </p>
-            <p style={{fontWeight: "bolder"}}>
+            <p style={{fontWeight: "900"}}>
               I graduated from the University of Minnesota with degrees in Economics and History. I have worked mainly in business office 
               postions. Though, I have worked a variety of roles, most had something to do with processing transactions in a CRM type software.
               I have also done quality control, editing and some publishing to a web page. I am learning to code and develop web pages to 
@@ -41,11 +41,11 @@ function About() {
           <Col size="xl-3">
             <h3 style={{textDecoration: "underline"}}>Contact Info</h3>
             <ul>
-              <li style={{fontWeight: "bolder"}}>Phone: 612-306-9735</li>
-              <li style={{fontWeight: "bolder"}}><a href="mailto:flynn0087@gmail.com">Send Email</a></li>
-              <li style={{fontWeight: "bolder"}}><a href={ Resume }>Resume</a></li>
-              <li style={{fontWeight: "bolder"}}><a href="https://github.com/flynn0087" target="_blank" rel="noopener noreferrer">Github</a></li>
-              <li style={{fontWeight: "bolder"}}><a href="https://www.linkedin.com/in/benjamin-flynn-83953942/" target="_blank" rel="noopener noreferrer">My LinkedIn</a></li>
+              <li style={{fontWeight: "900"}}>Phone: 612-306-9735</li>
+              <li style={{fontWeight: "900"}}><a href="mailto:flynn0087@gmail.com">Send Email</a></li>
+              <li style={{fontWeight: "900"}}><a href={ Resume }>Resume</a></li>
+              <li style={{fontWeight: "900"}}><a href="https://github.com/flynn0087" target="_blank" rel="noopener noreferrer">Github</a></li>
+              <li style={{fontWeight: "900"}}><a href="https://www.linkedin.com/in/benjamin-flynn-83953942/" target="_blank" rel="noopener noreferrer">My LinkedIn</a></li>
             </ul>
           </Col>
         </Row>
