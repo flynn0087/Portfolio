@@ -21,7 +21,7 @@ function Portfolio () {
                 <br></br>
                 <Row>
                     <Col size="md-6">
-                        <h4>Suds Time</h4>
+                        <h4>Tee-Time Scheduler</h4>
                         <p>Link to the page: <a href="https://powerful-castle-14067.herokuapp.com/logout">https://powerful-castle-14067.herokuapp.com/</a></p>
                         <p>Link to the Github repository: <a href="https://github.com/flynn0087/BWCC_Teetime">https://github.com/flynn0087/BWCC_Teetime</a></p>
                         <img src={ Image6 } alt="Tee-Time Scheduler Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
