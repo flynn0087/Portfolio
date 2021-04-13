@@ -6,3 +6,7 @@
 .p {
     float: right;
 }
+
+.fill {
+    height: 100%
+}

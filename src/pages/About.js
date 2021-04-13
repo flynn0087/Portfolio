@@ -37,10 +37,10 @@ function About() {
           </Col>
         </Row>
 
-        <Row>
+        <Row class="fill">
           <Col size="xl-3">
             <h3 style={{textDecoration: "underline"}}>Contact Info</h3>
-            <ul>
+            <ul style={{backgroundColor: "white"}}>
               <li style={{fontWeight: "bold"}}>Phone: 612-306-9735</li>
               <li style={{fontWeight: "bold"}}><a href="mailto:flynn0087@gmail.com">Send Email</a></li>
               <li style={{fontWeight: "bold"}}><a href={ Resume }>Resume</a></li>
