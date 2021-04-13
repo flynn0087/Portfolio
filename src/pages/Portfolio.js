@@ -9,13 +9,13 @@ import Image4 from "../assets/images/projects/EDBscreenshot.PNG"
 import Image5 from "../assets/images/projects/WDSscreenshot.PNG"
 import Image6 from "../assets/images/projects/BWCCscreenshot.JPG"
 
-function Portfolio () {
+function myPortfolio () {
     return (
         <div>
             <Container style={{ marginTop: 30 }}>
                 <Row>
                     <Col size="md=12">
-                        <h2>Portfolio</h2>
+                        <h2>My Portfolio</h2>
                     </Col>
                 </Row>
                 <br></br>
@@ -72,4 +72,4 @@ function Portfolio () {
 
 }
 
-export default Portfolio;
+export default myPortfolio;
