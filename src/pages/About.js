@@ -13,13 +13,13 @@ function About() {
       <Container>
         <Row>
           <Col size="xl-12">
-            <h2>About Me</h2>
+            <h2 style={{color: "gold", textDecoration: "underline"}}>About Me</h2>
           </Col>
           <Col size="xl-3">
             <img src={ ImageMe } alt="Ben Flynn" style={{ maxWidth: 350, maxHeight: 350 }}/>
           </Col>
           <Col size="xl-9">
-            <p>
+            <p style={{color: "gold"}} >
               My name is Benjamin (Ben) Flynn. I was born on December 14, 1983 in Minneapolis, MN. I still currently live in Minneapolis, MN.
               However, I have also lived in Chicago, IL; Steamboat Springs, CO; and Telluride, CO. I lived in Chicago for two years after 
               graduating from the University of Minnesota. I lived in Colorado for a total of four winters, with one summer as well. Chicago
@@ -39,7 +39,7 @@ function About() {
 
         <Row>
           <Col size="xl-3">
-            <h3>Contact Info</h3>
+            <h3 style={{color: "gold", textDecoration: "underline"}}>Contact Info</h3>
             <ul>
               <li>Phone: 612-306-9735</li>
               <li><a href="mailto:flynn0087@gmail.com">Send Email</a></li>
