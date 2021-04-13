@@ -15,7 +15,7 @@ function myPortfolio () {
             <Container style={{ marginTop: 30 }}>
                 <Row>
                     <Col size="md=12">
-                        <h2>My Portfolio</h2>
+                        <h2 style={{textDecoration: "underline"}}>My Portfolio</h2>
                     </Col>
                 </Row>
                 <br></br>

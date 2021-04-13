@@ -19,7 +19,7 @@ function About() {
             <img src={ ImageMe } alt="Ben Flynn" style={{ maxWidth: 350, maxHeight: 350 }}/>
           </Col>
           <Col size="xl-9">
-            <p style={{fontWeight: "900"}} >
+            <p style={{fontWeight: "900", color: "green"}} >
               My name is Benjamin (Ben) Flynn. I was born on December 14, 1983 in Minneapolis, MN. I still currently live in Minneapolis, MN.
               However, I have also lived in Chicago, IL; Steamboat Springs, CO; and Telluride, CO. I lived in Chicago for two years after 
               graduating from the University of Minnesota. I lived in Colorado for a total of four winters, with one summer as well. Chicago
