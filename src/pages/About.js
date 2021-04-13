@@ -27,7 +27,7 @@ function About() {
               in Colorado as I am an avid downhill skier and snowboarder. During the summer I also enjoyed hiking. Mountains are the best! I 
               still enjoy traveling to the mountains to ski when I can.
             </p>
-            <p style={{fontWeight: "900"}}>
+            <p style={{fontWeight: "900", color: "green"}}>
               I graduated from the University of Minnesota with degrees in Economics and History. I have worked mainly in business office 
               postions. Though, I have worked a variety of roles, most had something to do with processing transactions in a CRM type software.
               I have also done quality control, editing and some publishing to a web page. I am learning to code and develop web pages to 
