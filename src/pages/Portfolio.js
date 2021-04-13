@@ -7,10 +7,7 @@ import Image2 from "../assets/images/projects/BILscreenshot.PNG"
 import Image3 from "../assets/images/projects/CQscreenshot.PNG"
 import Image4 from "../assets/images/projects/EDBscreenshot.PNG"
 import Image5 from "../assets/images/projects/WDSscreenshot.PNG"
-// import Image6 from "../assets/images/projects/GWscreenshot.PNG" this image not finished yet
-
-
-
+import Image6 from "../assets/images/projects/BWCCscreenshot.JPG"
 
 function Portfolio () {
     return (
@@ -23,11 +20,11 @@ function Portfolio () {
                 </Row>
                 <br></br>
                 <Row>
-                    <Col size="md-6">  
-                        <h4>Giphy Weather</h4>
-                        <p>Link to the page: <a href="https://flynn0087.github.io/Giphy-Weather_Forked/">https://flynn0087.github.io/Giphy-Weather_Forked/</a></p>
-                        <p>Link to the Github repository: <a href="https://github.com/flynn0087/Giphy-Weather_Forked">https://github.com/flynn0087/Giphy-Weather_Forked</a></p>
-                        <img src={ Image1 } alt="Giphy Weather Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
+                    <Col size="md-6">
+                        <h4>Suds Time</h4>
+                        <p>Link to the page: <a href="https://powerful-castle-14067.herokuapp.com/logout">https://powerful-castle-14067.herokuapp.com/</a></p>
+                        <p>Link to the Github repository: <a href="https://github.com/flynn0087/BWCC_Teetime">https://github.com/flynn0087/BWCC_Teetime</a></p>
+                        <img src={ Image6 } alt="Tee-Time Scheduler Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
                     </Col>
 
                     <Col size="md-6">
@@ -39,11 +36,11 @@ function Portfolio () {
                 </Row>
 
                 <Row>
-                    <Col size="md-6">
-                        <h4>Intro Coding Quiz</h4>
-                        <p>Link to the page: <a href="https://flynn0087.github.io/Intro_Coding_Quiz/">https://flynn0087.github.io/Intro_Coding_Quiz/</a></p>
-                        <p>Link to the Github repository: <a href="https://github.com/flynn0087/Intro_Coding_Quiz">https://github.com/flynn0087/Intro_Coding_Quiz</a></p>
-                        <img src={ Image3 } alt="Coding Quiz Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
+                    <Col size="md-6">  
+                        <h4>Giphy Weather</h4>
+                        <p>Link to the page: <a href="https://flynn0087.github.io/Giphy-Weather_Forked/">https://flynn0087.github.io/Giphy-Weather_Forked/</a></p>
+                        <p>Link to the Github repository: <a href="https://github.com/flynn0087/Giphy-Weather_Forked">https://github.com/flynn0087/Giphy-Weather_Forked</a></p>
+                        <img src={ Image1 } alt="Giphy Weather Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
                     </Col>
 
                     <Col size="md-6">
@@ -63,10 +60,10 @@ function Portfolio () {
                     </Col>
 
                     <Col size="md-6">
-                        <h4>Suds Time</h4>
-                        <p>Link to the page: <a href="https://suds-time.herokuapp.com/">https://suds-time.herokuapp.com/</a></p>
-                        <p>Link to the Github repository: <a href="https://github.com/flynn0087/Suds_Scheduler">https://github.com/flynn0087/Suds_Scheduler</a></p>
-                        <img src="" alt="Suds Time Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
+                        <h4>Intro Coding Quiz</h4>
+                        <p>Link to the page: <a href="https://flynn0087.github.io/Intro_Coding_Quiz/">https://flynn0087.github.io/Intro_Coding_Quiz/</a></p>
+                        <p>Link to the Github repository: <a href="https://github.com/flynn0087/Intro_Coding_Quiz">https://github.com/flynn0087/Intro_Coding_Quiz</a></p>
+                        <img src={ Image3 } alt="Coding Quiz Screenshot" style={{ margin: 10, maxWidth: 350, maxHeight: 350 }}/>
                     </Col>
                 </Row>
             </Container>
