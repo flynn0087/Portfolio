@@ -9,7 +9,7 @@ import ImageMtn from "../assets/images/photo/mtn.jpg"
 
 function About() {
   return (
-    <div style={{ backgroundImage: `url(${ImageMtn})` }} alt="Background of mountain">
+    <div style={{ backgroundImage: `url(${ImageMtn})`, maxWidth: 1080}} alt="Background of mountain">
       <Container>
         <Row>
           <Col size="xl-12">
