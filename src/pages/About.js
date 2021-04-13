@@ -5,11 +5,13 @@ import Col from "../components/Col";
 import Resume from "../assets/resume 2_4_21.pdf"
 import ImageMe from "../assets/images/photo/P_20201007_091328.jpg"
 import "./style.css";
+import ImageMtn from "../assets/images/photo/mtn.jpg"
 
 function About() {
   return (
     <div>
       <Container>
+        <img src={ ImageMtn } alt="Background of mountain" />
         <Row>
           <Col size="xl-12">
             <h2>About Me</h2>
