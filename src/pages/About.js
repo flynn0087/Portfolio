@@ -2,7 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Resume from "../assets/resume 4_21_21.pdf";
+import Resume from "../assets/resume 7_21_21.pdf";
 import ImageMe from "../assets/images/photo/P_20201007_091328.jpg";
 import "./style.css";
 import ImageMtn from "../assets/images/photo/mtn.jpg";
